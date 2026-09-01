@@ -1,3 +1,4 @@
+<img width="1917" height="907" alt="LeakhouseLab" src="https://github.com/user-attachments/assets/bbaf810d-a2c8-449d-b359-ac9775250466" />
 # 01 - Lakehouse Lab (Microsoft Fabric)
 
 ## 📌 Objective
